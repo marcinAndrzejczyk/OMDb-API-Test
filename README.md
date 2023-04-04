@@ -1,4 +1,4 @@
-# OMDbAPI-test
+# OMDb-API-Test
 Couple of example tests for OMDb API: https://www.omdbapi.com/ made for educational purposes.
 
 
